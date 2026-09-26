@@ -1,0 +1,9 @@
+Horizon,Selected strategy,Weather inputs
+1,Forecasted Direct,precipitation
+3,Forecasted Recursive,precipitation
+6,Weekly Seasonal Naive,none
+12,Weekly Seasonal Naive,none
+24,Weekly Seasonal Naive,none
+48,Weekly Seasonal Naive,none
+72,Weekly Seasonal Naive,none
+168,Weekly Seasonal Naive,none

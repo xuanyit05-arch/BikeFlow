@@ -1,0 +1,7 @@
+# Offline artifact replay only; Streamlit Community Cloud uses requirements.txt.
+numpy==2.4.6
+pandas==3.0.3
+scikit-learn==1.9.0
+matplotlib==3.10.9
+ipython==9.17.1
+pyarrow==24.0.0
